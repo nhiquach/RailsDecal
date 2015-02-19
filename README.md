@@ -55,7 +55,7 @@ Google is also your best friend.  Also there is a few questions on the form to a
   Now we want to fill in our Major and Age (which is blank and 7 respectively).  Let's try and do this
   without changing the HTML and just using our controller WITHOUT editing the html.erb.
   
-  Next let's add one more piece of information, your favorite song.  Let's do it using an instance variable in    embedded ruby rather than hardcoding into the html. You MAY add an instance variable into the html, but don't hardcode the song name.
+  Next let's add one more piece of information, your favorite song.  Let's do it using an instance variable in embedded ruby rather than hardcoding into the html.
 
 ## Adding CSS classes:
   If you look at the app/views/pages/about.html.erb there is an empty image tag at the bottom.
